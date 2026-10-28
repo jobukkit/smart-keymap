@@ -109,6 +109,11 @@
   NonUSBackslash = 0x64,
   Application = 0x65,
 
+  NPEquals = 0x67,
+  F13 = 0x68,
+  F14 = 0x69,
+  F15 = 0x6A,
+
   LeftCtrl = 0xE0,
   LeftShift = 0xE1,
   LeftAlt = 0xE2,
